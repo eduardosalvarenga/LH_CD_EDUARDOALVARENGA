@@ -47,11 +47,11 @@ O ponto entregável 4 está neste repositório com o nome 'predicted.csv'
 1. Clone o repositório do GitHub para sua máquina local. 
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/eduardosalvarenga/LH_CD_EDUARDOALVARENGA/tree/main
 ```
 2. Navegue até o diretório do projeto
 ```
-cd seu-repositorio
+cd LH_CD_EDUARDOALVARENGA
 ```
 3. Instale as dependências necessárias usando:
 ```
